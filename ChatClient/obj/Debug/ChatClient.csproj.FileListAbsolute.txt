@@ -1,0 +1,30 @@
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.Client.resources
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\3106107616\Desktop\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\3106107616\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\3106107616\Desktop\ChatServer\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\3106107616\Desktop\my\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\3106107616\Desktop\my\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\3106107616\Desktop\my\ChatServer\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\3106107616\Desktop\my\ChatServer\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\3106107616\Desktop\my\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\3106107616\Desktop\my\ChatServer\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\3106107616\Desktop\my\ChatServer\ChatClient\obj\Debug\ChatClient.Client.resources
+C:\Users\3106107616\Desktop\my\ChatServer\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\3106107616\Desktop\my\ChatServer\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Users\dreis\Desktop\Tafe Folder\Term4\Visual Studio 2015\Projects\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\dreis\Desktop\Tafe Folder\Term4\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\dreis\Desktop\Tafe Folder\Term4\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\dreis\Desktop\Tafe Folder\Term4\Visual Studio 2015\Projects\ChatServer\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\dreis\Desktop\Tafe Folder\Term4\Visual Studio 2015\Projects\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\dreis\Desktop\Tafe Folder\Term4\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\dreis\Desktop\Tafe Folder\Term4\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.Client.resources
+C:\Users\dreis\Desktop\Tafe Folder\Term4\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\dreis\Desktop\Tafe Folder\Term4\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+c:\users\3106107616\documents\visual studio 2015\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.Server.resources
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\3106107616\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\3106107616\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\3106107616\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\3106107616\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\3106107616\Desktop\my\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\3106107616\Desktop\my\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\3106107616\Desktop\my\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\3106107616\Desktop\my\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\3106107616\Desktop\my\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\3106107616\Desktop\my\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\3106107616\Desktop\my\ChatServer\ChatServer\obj\Debug\ChatServer.Server.resources
+C:\Users\3106107616\Desktop\my\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\3106107616\Desktop\my\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
